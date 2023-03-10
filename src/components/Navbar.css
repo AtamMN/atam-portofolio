@@ -1,0 +1,31 @@
+/* .nav-container{
+    display: flex;
+    height: 56px;
+    background-color: #0f0e17;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    border-bottom: 1px solid black;
+}
+
+.nav-title {
+    display: block;
+    padding-left: 30px;
+    color: #fffffe;
+}
+
+.nav-lists {
+    display: flex;
+    padding-right: 30px;
+    justify-content: space-evenly;
+    gap: 3em;
+    color: #fffffe;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ */
